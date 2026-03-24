@@ -22,7 +22,7 @@ The analysis was first performed on the **raw dataset using Looker Studio**, fol
 ### Dashboard
 - **Blinkit_Data_Analysis_Pivot_Table_1.pdf** – PDF of the final dashboard created for analysis.
 ### logo.png
--image of Blinkit logo.
+- **Image of Blinkit logo.**
 
 ---
 
@@ -107,5 +107,6 @@ Using Excel:
 
 ## Author
 **Pallabi Biswas**  
-**BTech CSE**
+-Btech CSE
+**Contact:** pallabibiswas4002@gmail.com
 ---
