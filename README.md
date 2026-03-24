@@ -54,7 +54,7 @@ Using Excel:
 ---
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard/Blinkit_Data_Analysis_Pivot_Table_1.pdf)
+![Dashboard Preview](Dashboard/Dashboard_image.png)
 ## Dashboard Insights
 
 ### KPI Metrics
