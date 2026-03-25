@@ -11,6 +11,9 @@ The analysis was first performed on the **raw dataset using Looker Studio**, fol
 
 ---
 
+## Dataset Link
+- **https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset/data**
+
 ## Project Files
 
 ### Raw Data
